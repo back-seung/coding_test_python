@@ -7,4 +7,3 @@ for i in range(N):
     average += (scores[i]/M) * 100
 
 print(average / N)
-
